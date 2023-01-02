@@ -1,0 +1,68 @@
+*{
+    padding: 1rem;
+    margin: 0%;
+}
+
+.jugador__contenido {
+    margin:1rem;
+    padding:1rem;
+    width: 80%;
+    background-color: rgb(176, 175, 175);
+}
+
+.jugador__input {
+    width: 90%;
+    display: block;
+    padding: 1rem;
+    margin-bottom: 0.8rem;
+}
+
+h1, h2{
+    background-color: lightblue;
+    text-align: center;
+}
+
+h2 {
+    margin:0%;
+    font-size:xx-large;
+}
+
+body {
+    background-color: lightblue;
+}
+
+footer{
+    background-color: lightblue;
+    text-align: center;
+}
+
+p{
+    background-color: lightblue;
+}
+
+table, th, td {
+    border: 1px solid;
+  }
+table {
+    width: 100%;
+}
+
+.boton {
+    background-color: white;
+}
+.boton:hover {
+    background-color: yellow;
+    cursor: pointer;
+}
+.botonera_principal li{
+    display: inline;
+    justify-content: center;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+a {
+    text-decoration: solid;
+    background-color: yellow;
+    border-radius: 5%;
+}
